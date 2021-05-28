@@ -1,0 +1,16 @@
+.idea/
+.DS_Store
+*.iml
+target
+logs
+.classpath
+.project
+.settings/
+.amateras
+qrcode/
+..gitignore.un~
+.gitignore~
+rebel.xml
+*.xml.bak
+.idea/vcs.xml
+/app/
