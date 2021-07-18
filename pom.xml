@@ -31,5 +31,7 @@
 
     <modules>
         <module>kafka-demo</module>
+        <module>algorithm</module>
+        <module>hadoop</module>
     </modules>
 </project>
